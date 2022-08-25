@@ -1,13 +1,13 @@
 fun main(){
-    var a:Int=100
+    var a:Int=120
     val b:Float=200.95F
     val c:Char='a'
-    val d:String="Hello World"
+    val d:String="zalak"
     val e:Boolean=true
-    val f:Double=45.56
+    val f:Double=75.45
     val g:Long=12345
     val h:Short=-7
-    val i:Byte=127
+    val i:Byte=128
     println("Integer Value: $a")
     println("Float Value: $b")
     println("Character Value: $c")
