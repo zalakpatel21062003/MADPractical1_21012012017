@@ -25,3 +25,7 @@ practical1.5
 practical1.6
 6. By using a user defined function perform all arithmetic operations.
 ![pr6](https://user-images.githubusercontent.com/110719677/186686744-1e57995d-0026-434a-b900-dd9d16dd6477.PNG)
+
+practical1.7
+7.Find the factorial of number by recursion. Explain "tailrec" keyword.
+![pr7](https://user-images.githubusercontent.com/110719677/186687144-7060933a-4fe1-4670-a907-620012a6e1a8.PNG)
