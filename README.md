@@ -17,7 +17,11 @@ practical1.4
 
 practical1.5
 5.Display month name using When
+
 ![pr5](https://user-images.githubusercontent.com/110719677/186685734-ced08041-02a4-4295-b5f5-eca7b59f7710.PNG)
+
 ![pr5 2](https://user-images.githubusercontent.com/110719677/186686191-aecc951a-6d8a-4fd0-b541-7a57ac65d9ff.PNG)
 
-
+practical1.6
+6. By using a user defined function perform all arithmetic operations.
+![pr6](https://user-images.githubusercontent.com/110719677/186686744-1e57995d-0026-434a-b900-dd9d16dd6477.PNG)
