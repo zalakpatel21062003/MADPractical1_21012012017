@@ -33,6 +33,8 @@ practical1.7
 practical1.8
 8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
 
+![pr8](https://user-images.githubusercontent.com/110719677/186691774-e91e9a47-2327-4ad1-b22c-dc11231dec16.PNG)
+
 
 practical1.9
 9.Find the max number from ArrayList.
