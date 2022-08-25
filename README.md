@@ -29,3 +29,11 @@ practical1.6
 practical1.7
 7.Find the factorial of number by recursion. Explain "tailrec" keyword.
 ![pr7](https://user-images.githubusercontent.com/110719677/186687144-7060933a-4fe1-4670-a907-620012a6e1a8.PNG)
+
+practical1.8
+8.Create different types of Array as shown in image. Explore Arrays.deepToString(), contentDeepToString() methods, IntArray variable .joinToString()  and use in program to print Array. Explore range, downTo, until etc. for loop and use in this program. Sort Array of Integer data type without using inbuilt function & with using inbuilt function
+
+
+practical1.9
+9.Find the max number from ArrayList.
+![pr9](https://user-images.githubusercontent.com/110719677/186687958-2fcb8ff1-05ad-475c-918b-08b9406cdfbf.PNG)
