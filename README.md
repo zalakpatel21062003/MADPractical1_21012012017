@@ -14,3 +14,10 @@ practical1.3
 practical1.4
 4.Find the number is odd or even by using Control Flow inside println() method.
 ![pr4](https://user-images.githubusercontent.com/110719677/186685506-62011991-ea9d-47b2-889c-752d2cb9d1e1.PNG)
+
+practical1.5
+5.Display month name using When
+![pr5](https://user-images.githubusercontent.com/110719677/186685734-ced08041-02a4-4295-b5f5-eca7b59f7710.PNG)
+![pr5 2](https://user-images.githubusercontent.com/110719677/186686191-aecc951a-6d8a-4fd0-b541-7a57ac65d9ff.PNG)
+
+
