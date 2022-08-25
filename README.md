@@ -36,4 +36,11 @@ practical1.8
 
 practical1.9
 9.Find the max number from ArrayList.
+
 ![pr9](https://user-images.githubusercontent.com/110719677/186687958-2fcb8ff1-05ad-475c-918b-08b9406cdfbf.PNG)
+
+practical1.10
+10. Write Different types of Class & Constructor. Create a class Car and set various members like type, model, price, owner, milesDrive. add the function getCarPrice in it. Create an object of Car class and access property of it. (getCarInformation(), getOriginalCarPrice(), getCurrentCarPrice(), displayCarInfo() etc.)
+
+![pr10](https://user-images.githubusercontent.com/110719677/186688317-af2534eb-d542-4066-9b77-25b09aeaf378.PNG)
+
